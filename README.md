@@ -1,4 +1,5 @@
-THis is my first project with my HTML knowledge, this is about Recipes 
+THis is my first project with my basic HTML knowledge, this is about Recipes 
+of some food items. 
 
 
 Image credits:
